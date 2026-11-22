@@ -2,8 +2,6 @@
 
 **M.Sc. Business Information Systems (Data Science & AI), Paderborn University. I build ML and LLM systems end to end: from a messy problem and raw data to an evaluated model and a tool people use.**
 
-Open to roles in data science and AI engineering (forward deployed, applied ML).
-
 ## Featured projects
 
 | Project | What it shows |
