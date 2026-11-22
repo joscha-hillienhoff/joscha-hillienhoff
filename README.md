@@ -1,40 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Joscha Hillienhoff
-===========================================================================================================================================
+# Joscha Hillienhoff
 
-Data Scientist & M.Sc. Student — Business Information Systems
--------------------------------------------------------------
+**M.Sc. Business Information Systems (Data Science & AI), Paderborn University. I build ML and LLM systems end to end: from a messy problem and raw data to an evaluated model and a tool people use.**
 
-I am a data scientist with a strong foundation in machine learning, statistical analysis, and data-driven decision-making. I’m currently pursuing my Master’s in Business Information Systems with a focus on Data Science and Artificial Intelligence at the University of Paderborn.
+Open to master thesis and entry-level roles in data science and AI engineering (forward deployed, applied ML).
 
-My work combines technical modeling with practical business impact, including recommender systems, predictive analytics, and data engineering workflows.
+## Featured projects
 
-* 🌍  I'm based in Paderborn, Germany
-* ✉️  You can contact me at [joscha0610@gmail.com](mailto:joscha0610@gmail.com)
-* 🚀  I'm currently working on [Lego Price Prediction Project](http://github.com/Joscha06/lego-price-prediction)
-* 🧠  I'm currently learning MLOps and model deployment with MLflow, Docker & Airflow
-* 👥  I'm looking to collaborate on Machine Learning & Deep Learning Projects
+| Project | What it shows |
+|---|---|
+| [deposit-forecasting](https://github.com/joscha-hillienhoff/deposit-forecasting) | Six forecasting models for household overnight deposits on public ECB data, rolling-origin backtest, SHAP explanations and rate scenarios; tested Python package with CI |
+| [ai-lions-den](https://github.com/joscha-hillienhoff/ai-lions-den) | Live pitch game: teams pitch to a jury of four LLM investors who question, score and decide; FastAPI and Next.js app, played live with a room of teams |
+| [news-recommender-system](https://github.com/joscha-hillienhoff/news-recommender-system) | Team project on Microsoft MIND: popularity, content-based, BPR and hybrid recommenders, compared on nDCG and CO2 cost |
+| [xg_prediction](https://github.com/joscha-hillienhoff/xg_prediction) | Expected-goals model on StatsBomb event data with Hydra, Optuna and MLflow |
+| [earthquake-damage-ml](https://github.com/joscha-hillienhoff/earthquake-damage-ml) | Building-damage classification for the 2015 Nepal earthquake; XGBoost with Bayesian tuning, top third of 2,258 entries |
 
-<p align="left">
-  <div align="left">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/></code>
-</div>
-</p>
+## Stack
 
-### Socials
+Python, pandas, scikit-learn, LightGBM / XGBoost, statsmodels, PyTorch, sentence-transformers, LLM APIs, FastAPI, Docker, GitHub Actions, MLflow, DVC, Hydra, pytest, uv / Poetry
 
-<p align="left"> <a href="https://www.github.com/joscha-hillienhoff" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/joscha-hillienhoff" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+## Contact
 
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/joscha-hillienhoff/lego-price-prediction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=joscha-hillienhoff&repo=lego-price-prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/joscha-hillienhoff/pharma-event-success-prediction" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=joscha-hillienhoff&repo=pharma-event-success-prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-<div width="100%" align="center"><a href="https://github.com/joscha-hillienhoff/earthquake-damage-ml" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=joscha-hillienhoff&repo=earthquake-damage-ml&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/joscha-hillienhoff/news-recommender-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=joscha-hillienhoff&repo=news-recommender-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+[LinkedIn](https://www.linkedin.com/in/joscha-hillienhoff) · joscha0610@gmail.com
