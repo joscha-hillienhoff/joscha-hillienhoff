@@ -2,7 +2,7 @@
 
 **M.Sc. Business Information Systems (Data Science & AI), Paderborn University. I build ML and LLM systems end to end: from a messy problem and raw data to an evaluated model and a tool people use.**
 
-Open to master thesis and entry-level roles in data science and AI engineering (forward deployed, applied ML).
+Open to roles in data science and AI engineering (forward deployed, applied ML).
 
 ## Featured projects
 
@@ -20,4 +20,4 @@ Python, pandas, scikit-learn, LightGBM / XGBoost, statsmodels, PyTorch, sentence
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/joscha-hillienhoff) · joscha0610@gmail.com
+[LinkedIn](https://www.linkedin.com/in/joscha-hillienhoff)
